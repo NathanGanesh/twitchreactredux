@@ -17,7 +17,9 @@ class StreamDelete extends Component {
 				<button onClick={() => history.push('/')}>cancel</button>
 			</React.Fragment>
 		);
-	}
+    }
+    
+   
 
 	render() {
 		return (
